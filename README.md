@@ -1,2 +1,1 @@
-im foamy
-i like coding
+im foamy, i just like coding
